@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+httpx
+dnspython
+pydantic
+pytest
+pytest-asyncio
+rich
+typer
+streamlit
+pandas

@@ -1,0 +1,8 @@
+company,name,role,known_email,resolved_domain,mx_provider,top_guess_1,confidence_1,top_guess_2
+acmecorp,Aarav Kumar Sharma,Product Manager,aaravkumar.sharma@acmecorp.in,acmecorp.in,Google Workspace,aaravkumar.sharma@acmecorp.in,99%,sharma.aaravkumar@acmecorp.in
+acmecorp,Ravikiran,Product Manager,ravi.kiran@acmecorp.in,acmecorp.in,Google Workspace,ravi.kiran@acmecorp.in,99%,ravikiran@acmecorp.in
+acmecorp,Vikram,Founder,,acmecorp.in,Google Workspace,vikram@acmecorp.in,95%,
+acmecorp,Pooja,Co-Founder,,acmecorp.in,Google Workspace,pooja@acmecorp.in,95%,
+acmecorp,Suresh Rao Verma,Engineering Lead,,acmecorp.in,Google Workspace,sureshrao.verma@acmecorp.in,99%,raoverma.suresh@acmecorp.in
+acmecorp,Harikrishna,Backend Engineer,,acmecorp.in,Google Workspace,hari.krishna@acmecorp.in,99%,harikrishna@acmecorp.in
+techcorp,Ananya Sen,CEO,,techcorp.in,Microsoft 365,ananya@techcorp.in,95%,ananya.sen@techcorp.in
